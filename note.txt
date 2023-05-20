@@ -1,0 +1,13 @@
+CRUD 
+
+In python -
+1.flask
+2.Django
+
+w3Consortium - community
+Creating some standards to create html files
+
+
+98 markup langauge 
+
+markup means which consist of <> symbols 
